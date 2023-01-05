@@ -1,0 +1,10 @@
+C:\Users\ve\Desktop\TRABALHO JOGOS C#\JOGO DA VELHA C#\JogoDaVelha2\JogoDaVelha2\bin\Debug\JogoDaVelha2.exe.config
+C:\Users\ve\Desktop\TRABALHO JOGOS C#\JOGO DA VELHA C#\JogoDaVelha2\JogoDaVelha2\bin\Debug\JogoDaVelha2.exe
+C:\Users\ve\Desktop\TRABALHO JOGOS C#\JOGO DA VELHA C#\JogoDaVelha2\JogoDaVelha2\bin\Debug\JogoDaVelha2.pdb
+C:\Users\ve\Desktop\TRABALHO JOGOS C#\JOGO DA VELHA C#\JogoDaVelha2\JogoDaVelha2\obj\Debug\JogoDaVelha2.csprojAssemblyReference.cache
+C:\Users\ve\Desktop\TRABALHO JOGOS C#\JOGO DA VELHA C#\JogoDaVelha2\JogoDaVelha2\obj\Debug\JogoDaVelha2.Form1.resources
+C:\Users\ve\Desktop\TRABALHO JOGOS C#\JOGO DA VELHA C#\JogoDaVelha2\JogoDaVelha2\obj\Debug\JogoDaVelha2.Properties.Resources.resources
+C:\Users\ve\Desktop\TRABALHO JOGOS C#\JOGO DA VELHA C#\JogoDaVelha2\JogoDaVelha2\obj\Debug\JogoDaVelha2.csproj.GenerateResource.cache
+C:\Users\ve\Desktop\TRABALHO JOGOS C#\JOGO DA VELHA C#\JogoDaVelha2\JogoDaVelha2\obj\Debug\JogoDaVelha2.csproj.CoreCompileInputs.cache
+C:\Users\ve\Desktop\TRABALHO JOGOS C#\JOGO DA VELHA C#\JogoDaVelha2\JogoDaVelha2\obj\Debug\JogoDaVelha2.exe
+C:\Users\ve\Desktop\TRABALHO JOGOS C#\JOGO DA VELHA C#\JogoDaVelha2\JogoDaVelha2\obj\Debug\JogoDaVelha2.pdb
